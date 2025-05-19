@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="CharacterCreationIconSettings">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationIconSetting">
+                    <attribute id="BodyShape" type="uint8" value="0"/>
+                    <attribute id="HeadAppearanceUUID" type="guid" value="7c538187-8c7f-4557-b850-e41a870c394b"/>
+                    <attribute id="RootTemplate" type="guid" value="0da40707-4d75-4408-b185-e38f9e5830f0"/>
+                    <attribute id="UUID" type="guid" value="32b6811a-30a8-4937-b053-70c93eed2a21"/>
+                    <children>
+                        <node id="SlotNames">
+                            <children>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Beard"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Horns"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Hair"/>
+                                </node>
+                                <node id="SlotNames">
+                                    <attribute id="Name" type="LSString" value="Piercing"/>
+                                </node>
+                            </children>
+                        </node>
+                    </children>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="53912403-fe14-4ce0-89aa-96acb1dee21a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_280" />
+        <field name="UUID" type="IdTableFieldDefinition" value="42bbb47d-b9b7-49e3-aedd-6f21f8b77ee3" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="1" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+        <field name="Boosts" type="StringTableFieldDefinition" value="ActionResource(Movement,9,0)" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_0" />
+        <field name="UUID" type="IdTableFieldDefinition" value="075a65ff-2771-4ead-8354-c244be6b522b" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="2" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_1" />
+        <field name="UUID" type="IdTableFieldDefinition" value="2eb33f30-4a34-4038-8c45-7eba0d7854e9" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="3" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_2" />
+        <field name="UUID" type="IdTableFieldDefinition" value="0e32af3a-45e3-4f38-a342-5b0d10d3e23a" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="4" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_3" />
+        <field name="UUID" type="IdTableFieldDefinition" value="4fccfd90-ec28-4402-81e6-74533ce5b157" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="5" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_4" />
+        <field name="UUID" type="IdTableFieldDefinition" value="30ef4259-6e0c-4593-a188-4e3ed358ee00" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="6" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_5" />
+        <field name="UUID" type="IdTableFieldDefinition" value="ec055b81-6fd1-4fda-a6a9-536f190a98be" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="7" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_6" />
+        <field name="UUID" type="IdTableFieldDefinition" value="f4b21a09-9135-4dfa-b343-67c653854baa" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="8" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_7" />
+        <field name="UUID" type="IdTableFieldDefinition" value="7e9588ab-0572-4dc9-8a0e-74a5afefe8db" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="9" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_8" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d0992bc8-b9e9-4953-990e-44d4aca909b3" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="10" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_9" />
+        <field name="UUID" type="IdTableFieldDefinition" value="6759b8f0-0bbe-47f9-923d-582e966437a2" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="11" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_10" />
+        <field name="UUID" type="IdTableFieldDefinition" value="43119a06-b752-4ea9-868e-018458c5f494" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="12" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_11" />
+        <field name="UUID" type="IdTableFieldDefinition" value="b12de27d-e5be-4a72-82ad-d31c353edd08" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="13" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_12" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d7a9d5d3-50a4-4bdf-8de7-255f2fbcd6e2" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="14" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_13" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3b9bad83-5909-4ee1-b156-8945ef56477b" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="15" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_14" />
+        <field name="UUID" type="IdTableFieldDefinition" value="1b1d4417-515f-468d-b080-b2c2710ad799" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="16" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_15" />
+        <field name="UUID" type="IdTableFieldDefinition" value="3c484c52-80b1-4746-a839-c18fe056169a" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="17" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_16" />
+        <field name="UUID" type="IdTableFieldDefinition" value="106f2345-77bc-4d88-8fcc-3b29f276ff2e" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="18" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_17" />
+        <field name="UUID" type="IdTableFieldDefinition" value="5ef72909-636e-408e-97c3-148b0437b673" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="19" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_18" />
+        <field name="UUID" type="IdTableFieldDefinition" value="251a8743-c7aa-41e0-ba07-c48df9b2d6f8" />
+        <field name="TableUUID" type="GuidTableFieldDefinition" value="763e24ba-da6f-434a-bf5b-dcf6850ca2c9" />
+        <field name="FSName" type="StringTableFieldDefinition" value="Dragonborn TEST" />
+        <field name="Level" type="ByteTableFieldDefinition" value="20" />
+        <field name="ProgressionType" type="ByteTableFieldDefinition" value="2" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

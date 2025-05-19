@@ -1,0 +1,654 @@
+====================================================== 
+   BG3 MOD BACKUP DETAILED LOG - DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+   Mon 05/19/2025  6:47:27.06 
+====================================================== 
+ 
+BG3 Path: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data 
+Backup folder: C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+ 
+[FILE COPYING REPORT] 
+====================================================== 
+SECTION 1: FILES FOUND 
+------------------------------------------------------------------------ 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\thumbnail.PNG 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 2 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3.lsmg 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationAppearanceMaterials.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationAppearanceVisuals.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationIconSettings.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationSharedVisuals.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreationPresets\CharacterCreationPresets.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Progressions\Progressions.tbl 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Races\Races.tbl 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 10 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\meta.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\mod_publish_logo.png 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Localization\English\english.xml 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 3 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\DGB_F_NKD_Body_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\DGB_F_NKD_Body_A.xml 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_BAKE_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_BAKE_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_BAKE_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEF_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEF_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEF_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPST_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPST_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPST_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPS_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPS_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPS_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEP_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEP_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEP_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_EMI_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_EMI_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_EMI_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_FOR_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_FOR_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_FOR_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_VEL_DX11.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_VEL_DX12.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_VEL_Vulkan.bshd 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Textures\DGB_Body\Body\DGB_F_NKD_Body_A_EL_1_CTLO_MakeUP_A.DDS 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationAppearanceMaterials.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationIconSettings.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreationPresets\CharacterCreationPresets.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\4f01e072-16ce-5403-7b69-dbd40c3240ab.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\67668ef4-5e1a-c580-6866-7570655097b2.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\7048ae64-ccfb-ae3d-6570-72f392a254cd.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\99911834-d7c2-481e-2eca-202587d6e3a8.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\d157159c-6b1b-354a-ba73-c2b535886729.lsf 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Body\DGB_F_NKD_Body_A.GR2 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Progressions\Progressions.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Races\Races.lsx 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Tags\2a319ffd-44f1-4d03-8234-6d559073f493.lsf 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 153 
+ 
+[LOG] Found mod folder: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+ 
+Files found: 
+  E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\DGB_Body_MakeUp\DGB_F_NKD_Body_A.GR2 
+Total files in E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 1 
+ 
+[LOG] Total files found across all folders: 169 
+ 
+SECTION 2: COPY OPERATIONS 
+------------------------------------------------------------------------ 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e to Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using destination: Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:47:31 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		     704	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\meta.lsx100%  
+	    New File  		  754301	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\thumbnail.PNG100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         1         1         1         0         0         0
+   Files :         2         2         0         0         0         0
+   Bytes :   737.3 k   737.3 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :            44412058 Bytes/sec.
+   Speed :            2541.278 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:47:31 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 2 
+[DEBUG] Successfully copied files: 2 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 
+      Total files: 2 
+      Copied successfully: 2 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e to "Editor\Mods"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using destination: Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:47:33 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		    1656	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationAppearanceMaterials.tbl100%  
+	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationAppearanceVisuals.tbl100%  
+	    New File  		    1095	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationIconSettings.tbl100%  
+	    New File  		     142	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationSharedVisuals.tbl100%  
+	    New File  		    2757	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreationPresets\CharacterCreationPresets.tbl100%  
+	    New File  		   13105	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Progressions\Progressions.tbl100%  
+	    New File  		   12193	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Races\Races.tbl100%  
+	    New File  		   7.9 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB.lsmg100%  
+	    New File  		   9.0 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB.lsmg100%  
+	    New File  		  36.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3.lsmg100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        11        11         1         0         0         0
+   Files :        10        10         0         0         0         0
+   Bytes :   53.44 m   53.44 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           2801993550 Bytes/sec.
+   Speed :           160331.357 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:47:33 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 10 
+[DEBUG] Successfully copied files: 10 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Editor\Mods"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 
+      Total files: 10 
+      Copied successfully: 10 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e to Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using destination: Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:47:34 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		   11812	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\meta.lsx100%  
+	    New File  		  754301	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\mod_publish_logo.png  0%  100%  
+	    New File  		     700	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Localization\English\english.xml100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         3         3         1         0         0         0
+   Files :         3         3         0         0         0         0
+   Bytes :   748.8 k   748.8 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           383406500 Bytes/sec.
+   Speed :           21938.695 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:47:34 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 3 
+[DEBUG] Successfully copied files: 3 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 
+      Total files: 3 
+      Copied successfully: 3 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e to Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using destination: Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:47:36 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  496740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\DGB_F_NKD_Body_A.GR2 52%  100%  
+	    New File  		     127	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\DGB_F_NKD_Body_A.xml100%  
+	    New File  		    1528	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationAppearanceMaterials.lsx100%  
+	    New File  		    1691	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreation\CharacterCreationIconSettings.lsx100%  
+	    New File  		    2112	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\CharacterCreationPresets\CharacterCreationPresets.lsx100%  
+	    New File  		   10275	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Progressions\Progressions.lsx100%  
+	    New File  		   54607	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Races\Races.lsx100%  
+	    New File  		    1675	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Tags\2a319ffd-44f1-4d03-8234-6d559073f493.lsf100%  
+	    New File  		   13605	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\4f01e072-16ce-5403-7b69-dbd40c3240ab.lsf100%  
+	    New File  		   16059	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\67668ef4-5e1a-c580-6866-7570655097b2.lsf100%  
+	    New File  		    1652	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\7048ae64-ccfb-ae3d-6570-72f392a254cd.lsf100%  
+	    New File  		    2542	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\99911834-d7c2-481e-2eca-202587d6e3a8.lsf100%  
+	    New File  		   14060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Content\[PAK]_DGB_Body_ClawStep_MakeUp_A\d157159c-6b1b-354a-ba73-c2b535886729.lsf100%  
+	    New File  		   35998	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB.lsf100%  
+	    New File  		   11512	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_DX11.bshd100%  
+	    New File  		   29227	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_DX12.bshd100%  
+	    New File  		   25024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEF_Vulkan.bshd100%  
+	    New File  		    2156	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_DX11.bshd100%  
+	    New File  		   10933	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_DX12.bshd100%  
+	    New File  		    4460	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPST_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEPS_Vulkan.bshd100%  
+	    New File  		    1508	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_DX11.bshd100%  
+	    New File  		    9477	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_DX12.bshd100%  
+	    New File  		    2668	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_DEP_Vulkan.bshd100%  
+	    New File  		    1588	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_DX11.bshd100%  
+	    New File  		    9929	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_DX12.bshd100%  
+	    New File  		    2820	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_EMI_Vulkan.bshd100%  
+	    New File  		   37304	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_DX11.bshd100%  
+	    New File  		   47897	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_DX12.bshd100%  
+	    New File  		   55538	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_FOR_Vulkan.bshd100%  
+	    New File  		    2868	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_DX11.bshd100%  
+	    New File  		   13997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_DX12.bshd100%  
+	    New File  		    6160	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_STI_VEL_Vulkan.bshd100%  
+	    New File  		   12144	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_DX11.bshd100%  
+	    New File  		   28571	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_DX12.bshd100%  
+	    New File  		   26402	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_BAKE_Vulkan.bshd100%  
+	    New File  		   12672	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_DX11.bshd100%  
+	    New File  		   30463	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_DX12.bshd100%  
+	    New File  		   27648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEF_Vulkan.bshd100%  
+	    New File  		    2264	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_DX11.bshd100%  
+	    New File  		   11674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_DX12.bshd100%  
+	    New File  		    5314	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_DX12.bshd100%  
+	    New File  		    3642	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    1648	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_DX11.bshd100%  
+	    New File  		   10422	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_DX12.bshd100%  
+	    New File  		    3626	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1728	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_DX11.bshd100%  
+	    New File  		   10874	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_DX12.bshd100%  
+	    New File  		    3778	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_EMI_Vulkan.bshd100%  
+	    New File  		   38464	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_DX11.bshd100%  
+	    New File  		   49133	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_DX12.bshd100%  
+	    New File  		   58130	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_FOR_Vulkan.bshd100%  
+	    New File  		    3024	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_DX11.bshd100%  
+	    New File  		   14674	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_DX12.bshd100%  
+	    New File  		    7638	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Body_DGB_ST_VEL_Vulkan.bshd100%  
+	    New File  		   34320	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB.lsf100%  
+	    New File  		   11184	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEF_DX11.bshd100%  
+	    New File  		   28202	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEF_DX12.bshd100%  
+	    New File  		   24804	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEF_Vulkan.bshd100%  
+	    New File  		    1516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPST_DX11.bshd100%  
+	    New File  		    9516	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPST_DX12.bshd100%  
+	    New File  		    3558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPST_Vulkan.bshd100%  
+	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPS_DX11.bshd100%  
+	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPS_DX12.bshd100%  
+	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEPS_Vulkan.bshd100%  
+	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEP_DX11.bshd100%  
+	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEP_DX12.bshd100%  
+	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_DEP_Vulkan.bshd100%  
+	    New File  		     964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_EMI_DX11.bshd100%  
+	    New File  		    8440	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_EMI_DX12.bshd100%  
+	    New File  		    1886	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_EMI_Vulkan.bshd100%  
+	    New File  		   36944	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_FOR_DX11.bshd100%  
+	    New File  		   47108	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_FOR_DX12.bshd100%  
+	    New File  		   55282	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_FOR_Vulkan.bshd100%  
+	    New File  		    1776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_VEL_DX11.bshd100%  
+	    New File  		   12468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_VEL_DX12.bshd100%  
+	    New File  		    4862	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_STI_VEL_Vulkan.bshd100%  
+	    New File  		   11892	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_BAKE_DX11.bshd100%  
+	    New File  		   27610	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_BAKE_DX12.bshd100%  
+	    New File  		   25696	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_BAKE_Vulkan.bshd100%  
+	    New File  		   12380	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEF_DX11.bshd100%  
+	    New File  		   29502	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEF_DX12.bshd100%  
+	    New File  		   27324	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEF_Vulkan.bshd100%  
+	    New File  		    1676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPST_DX11.bshd100%  
+	    New File  		   10249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPST_DX12.bshd100%  
+	    New File  		    4308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPS_DX11.bshd100%  
+	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPS_DX12.bshd100%  
+	    New File  		    2572	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEP_DX11.bshd100%  
+	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEP_DX12.bshd100%  
+	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_EMI_DX11.bshd100%  
+	    New File  		    9449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_EMI_DX12.bshd100%  
+	    New File  		    2708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_EMI_Vulkan.bshd100%  
+	    New File  		   38140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_FOR_DX11.bshd100%  
+	    New File  		   48372	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_FOR_DX12.bshd100%  
+	    New File  		   57786	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_FOR_Vulkan.bshd100%  
+	    New File  		    2040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_VEL_DX11.bshd100%  
+	    New File  		   13213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_VEL_DX12.bshd100%  
+	    New File  		    6164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_DGB_ST_VEL_Vulkan.bshd100%  
+	    New File  		   40677	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3.lsf100%  
+	    New File  		   16020	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEF_DX11.bshd100%  
+	    New File  		   35964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEF_DX12.bshd100%  
+	    New File  		   30222	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEF_Vulkan.bshd100%  
+	    New File  		    1500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPST_DX11.bshd100%  
+	    New File  		    9500	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPST_DX12.bshd100%  
+	    New File  		    3558	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPST_Vulkan.bshd100%  
+	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPS_DX11.bshd100%  
+	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPS_DX12.bshd100%  
+	    New File  		    1734	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEPS_Vulkan.bshd100%  
+	    New File  		     884	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEP_DX11.bshd100%  
+	    New File  		    7988	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEP_DX12.bshd100%  
+	    New File  		    1718	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_DEP_Vulkan.bshd100%  
+	    New File  		     964	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_EMI_DX11.bshd100%  
+	    New File  		    8440	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_EMI_DX12.bshd100%  
+	    New File  		    1870	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_EMI_Vulkan.bshd100%  
+	    New File  		   41976	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_FOR_DX11.bshd100%  
+	    New File  		   55262	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_FOR_DX12.bshd100%  
+	    New File  		   60796	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_FOR_Vulkan.bshd100%  
+	    New File  		    1776	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_VEL_DX11.bshd100%  
+	    New File  		   12468	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_VEL_DX12.bshd100%  
+	    New File  		    4846	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_STI_VEL_Vulkan.bshd100%  
+	    New File  		   13576	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_BAKE_DX11.bshd100%  
+	    New File  		   29805	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_BAKE_DX12.bshd100%  
+	    New File  		   25686	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_BAKE_Vulkan.bshd100%  
+	    New File  		   16608	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEF_DX11.bshd100%  
+	    New File  		   37096	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEF_DX12.bshd100%  
+	    New File  		   32066	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEF_Vulkan.bshd100%  
+	    New File  		    1676	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPST_DX11.bshd100%  
+	    New File  		   10249	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPST_DX12.bshd100%  
+	    New File  		    4308	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPST_Vulkan.bshd100%  
+	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPS_DX11.bshd100%  
+	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPS_DX12.bshd100%  
+	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEPS_Vulkan.bshd100%  
+	    New File  		    1060	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEP_DX11.bshd100%  
+	    New File  		    8997	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEP_DX12.bshd100%  
+	    New File  		    2556	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_DEP_Vulkan.bshd100%  
+	    New File  		    1140	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_EMI_DX11.bshd100%  
+	    New File  		    9449	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_EMI_DX12.bshd100%  
+	    New File  		    2708	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_EMI_Vulkan.bshd100%  
+	    New File  		   42564	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_FOR_DX11.bshd100%  
+	    New File  		   56346	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_FOR_DX12.bshd100%  
+	    New File  		   62624	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_FOR_Vulkan.bshd100%  
+	    New File  		    2040	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_VEL_DX11.bshd100%  
+	    New File  		   13213	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_VEL_DX12.bshd100%  
+	    New File  		    6164	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Materials\Characters\CHAR_Skin_Head_v3_ST_VEL_Vulkan.bshd100%  
+	    New File  		  496740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\DGB_Body_AkELkA_533a435e-8c13-bc21-7cfc-48c3a322e29a\DGB_Body\Body\DGB_F_NKD_Body_A.GR2100%  
+	    New File  		   5.3 m	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Assets\Textures\DGB_Body\Body\DGB_F_NKD_Body_A_EL_1_CTLO_MakeUP_A.DDS100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :        18        18         1         0         0         0
+   Files :       153       153         0         0         0         0
+   Bytes :    8.39 m    8.39 m         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           209647738 Bytes/sec.
+   Speed :           11996.139 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:47:36 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 153 
+[DEBUG] Successfully copied files: 153 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 
+      Total files: 153 
+      Copied successfully: 153 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+[DEBUG] Creating directory: C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Generated\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\.. 
+[LOG] Starting copy of E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e to "Generated\Public"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using source: E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[DEBUG] Using destination: Generated\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Robocopy completed with code: 0 
+[DEBUG] Extracting stats from temp log 
+
+-------------------------------------------------------------------------------
+   ROBOCOPY     ::     Robust File Copy for Windows                              
+-------------------------------------------------------------------------------
+
+  Started : Monday, May 19, 2025 6:47:38 AM
+   Source : E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+     Dest : C:\GIT_BG3\MOD_REPOS\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\Generated\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\
+
+    Files : *.*
+	    
+  Options : *.* /V /S /E /DCOPY:D /COPY:DT /MT:4 /R:3 /W:1 
+
+------------------------------------------------------------------------------
+
+	    New File  		  496740	E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e\DGB_Body_MakeUp\DGB_F_NKD_Body_A.GR2  0%  100%  
+
+------------------------------------------------------------------------------
+
+               Total    Copied   Skipped  Mismatch    FAILED    Extras
+    Dirs :         2         2         1         0         0         0
+   Files :         1         1         0         0         0         0
+   Bytes :   485.0 k   485.0 k         0         0         0         0
+   Times :   0:00:00   0:00:00                       0:00:00   0:00:00
+
+
+   Speed :           496740000 Bytes/sec.
+   Speed :           28423.690 MegaBytes/min.
+   Ended : Monday, May 19, 2025 6:47:38 AM
+
+ 
+[DEBUG] Counting source files 
+[DEBUG] Total files counted: 1 
+[DEBUG] Successfully copied files: 1 
+[LOG] Copy statistics for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\"Generated\Public"\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e: 
+      Total files: 1 
+      Copied successfully: 1 
+      Skipped: 0 
+      Mismatched: 0 
+      Failed: 0 
+ 
+[LOG] Checking for any failed files: 
+ 
+SECTION 3: FALLBACK COPY ATTEMPTS 
+------------------------------------------------------------------------ 
+ 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Projects\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 2 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Editor\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 10 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Mods\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 3 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 153 
+[LOG] Fallback copy attempt for E:\El\Games\Steam\steamapps\common\Baldurs Gate 3\Data\Generated\Public\DGB_Body_ClawStep_MakeUp_A_d091dfb6-55a3-5150-52ca-49c5efeaec2e 
+[LOG] Xcopy completed with code: 0 
+[LOG] Xcopy fallback successful 
+[LOG] Files copied by xcopy: 1 
+SECTION 4: FINAL SUMMARY 
+------------------------------------------------------------------------ 
+ 
+[SUMMARY] Total mod folders found: 1 
+[SUMMARY] Total files found: 169 
+[SUMMARY] Total files successfully copied: 338 
+ 
+[SUMMARY] All files were copied successfully 
+ 
+====================================================== 

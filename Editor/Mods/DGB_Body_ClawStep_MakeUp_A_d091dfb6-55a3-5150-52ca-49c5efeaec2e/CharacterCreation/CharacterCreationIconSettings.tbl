@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="3b034ae3-d260-4a73-b10f-9e954489d19a">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_24" />
+        <field name="UUID" type="IdTableFieldDefinition" value="32b6811a-30a8-4937-b053-70c93eed2a21" />
+        <field name="Comment" type="CommentTableFieldDefinition" value="Dragonborn_Male_Grey_Head_D" />
+        <field name="RootTemplate" type="GuidTableFieldDefinition" value="0da40707-4d75-4408-b185-e38f9e5830f0" />
+        <field name="SlotNames" type="EnumerationListTableFieldDefinition" value="Beard;Horns;Hair;Piercing" enumeration_type_name="CharacterCreatorSlotNames" version="1" />
+        <field name="BodyShape" type="EnumerationTableFieldDefinition" value="Standard" enumeration_type_name="BodyShape" version="1" />
+        <field name="HeadAppearanceUUID" type="GuidTableFieldDefinition" value="7c538187-8c7f-4557-b850-e41a870c394b" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

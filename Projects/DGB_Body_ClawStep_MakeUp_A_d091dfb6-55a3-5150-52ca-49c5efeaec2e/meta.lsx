@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="MetaData">
+        <node id="root">
+            <attribute id="GameProject" type="LSString" value=""/>
+            <attribute id="Module" type="LSString" value="d091dfb6-55a3-5150-52ca-49c5efeaec2e"/>
+            <attribute id="Name" type="LSString" value="DGB_Body_ClawStep_MakeUp_A"/>
+            <attribute id="UUID" type="LSString" value="8d19d1d0-97b1-f797-2d11-4dad8c5632db"/>
+            <attribute id="UpdatedDependencies" type="bool" value="true"/>
+            <children>
+                <node id="Categories"/>
+            </children>
+        </node>
+    </region>
+</save>

@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<stats stat_object_definition_id="bbb4bfcc-9437-489b-a489-b88bd973e0ca">
+  <stat_objects>
+    <stat_object is_substat="false">
+      <fields>
+        <field name="Name" type="NameTableFieldDefinition" value="New_Stat_28" />
+        <field name="UUID" type="IdTableFieldDefinition" value="d2e80059-cbc2-4d8d-bea8-b99e2fe97dd8" />
+        <field name="NameFS" type="FixedStringTableFieldDefinition" value="Tattoo_11_DGB" />
+        <field name="DisplayName" type="TranslatedStringTableFieldDefinition" handle="h836f80bag6a02g1367g13d2g7d1aa25362c2" version="1" />
+        <field name="MaterialType" type="EnumerationTableFieldDefinition" value="Tattoo" enumeration_type_name="CharacterCreatorMaterialType" version="1" />
+        <field name="MaterialPresetUUID" type="GuidTableFieldDefinition" value="3466d02e-432c-aa02-1260-290f03382ba7" />
+        <field name="MaleRootTemplate" type="GuidTableFieldDefinition" value="903b38b5-2703-40b4-9208-3ef388817543" />
+        <field name="MaleCameraName" type="FixedStringTableFieldDefinition" value="Camera_01" />
+        <field name="FemaleRootTemplate" type="GuidTableFieldDefinition" value="7957d6fb-e8e1-4017-af63-56d4854fd84f" />
+        <field name="FemaleCameraName" type="FixedStringTableFieldDefinition" value="Camera_01" />
+        <field name="DragonbornMaleRootTemplate" type="GuidTableFieldDefinition" value="0da40707-4d75-4408-b185-e38f9e5830f0" />
+        <field name="DragonbornFemaleRootTemplate" type="GuidTableFieldDefinition" value="8b49de9a-2e61-4e70-915d-84766c9dd070" />
+      </fields>
+    </stat_object>
+  </stat_objects>
+</stats>

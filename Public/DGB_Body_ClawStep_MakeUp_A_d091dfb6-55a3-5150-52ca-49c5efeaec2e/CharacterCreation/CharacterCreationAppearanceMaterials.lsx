@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<save>
+    <version major="4" minor="8" revision="0" build="10"/>
+    <region id="CharacterCreationAppearanceMaterials">
+        <node id="root">
+            <children>
+                <node id="CharacterCreationAppearanceMaterial">
+                    <attribute id="DisplayName" type="TranslatedString" handle="h836f80bag6a02g1367g13d2g7d1aa25362c2" version="1"/>
+                    <attribute id="DragonbornFemaleRootTemplate" type="guid" value="8b49de9a-2e61-4e70-915d-84766c9dd070"/>
+                    <attribute id="DragonbornMaleRootTemplate" type="guid" value="0da40707-4d75-4408-b185-e38f9e5830f0"/>
+                    <attribute id="FemaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="FemaleRootTemplate" type="guid" value="7957d6fb-e8e1-4017-af63-56d4854fd84f"/>
+                    <attribute id="MaleCameraName" type="FixedString" value="Camera_01"/>
+                    <attribute id="MaleRootTemplate" type="guid" value="903b38b5-2703-40b4-9208-3ef388817543"/>
+                    <attribute id="MaterialPresetUUID" type="guid" value="3466d02e-432c-aa02-1260-290f03382ba7"/>
+                    <attribute id="MaterialType" type="FixedString" value="Tattoo"/>
+                    <attribute id="Name" type="FixedString" value="Tattoo_11_DGB"/>
+                    <attribute id="UUID" type="guid" value="d2e80059-cbc2-4d8d-bea8-b99e2fe97dd8"/>
+                </node>
+            </children>
+        </node>
+    </region>
+</save>
